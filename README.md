@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></img>
+<img height="400" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></img>
 <!--
 **karendcl/karendcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
