@@ -1,10 +1,47 @@
 ### Hi there 👋
 
-### Skills
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></img>
-<img height="50" width="50" src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png"></img>
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></img>
-<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU"></img>
+I'm a 2nd year Computer Science student at the University of Havana.
+
+---
+### Languages and Tools
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></img> 
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></img> 
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></img> 
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png"></img>
+
+<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></img>
+
+<br />        
+---
+### Stats
+
+
+![Karen's Github Stats](https://github-readme-stats.vercel.app/api?username=karendcl&show_icons=true&theme=blueberry)
+            
+          
+            
+        
 
 
 
