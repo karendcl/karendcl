@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 2nd year Computer Science student at the University of Havana.
+I'm a 3rd year Computer Science student at the University of Havana.
 
 ---
 ### Languages and Tools
@@ -34,10 +34,11 @@ I'm a 2nd year Computer Science student at the University of Havana.
 <br />
 <br />
 #
+<!--
 ### Stats
 
 
-![Karen's Github Stats](https://github-readme-stats.vercel.app/api?username=karendcl&show_icons=true&theme=blueberry)
+![Karen's Github Stats](https://github-readme-stats.vercel.app/api?username=karendcl&show_icons=true&theme=blueberry)-->
             
           
             
