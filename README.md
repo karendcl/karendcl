@@ -8,7 +8,9 @@ I'm a 3rd year Computer Science student at the University of Havana.
 <p align="left">
 <a href="https://www.linkedin.com/in/karen-cantero-lopez-ba0b30116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karendcl" height="30" width="40" /></a>      
 </p>
-### Languages and Tools
+<br/>
+<h3>Languages and Tools</h3>
+
 <img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></img>
 
 <img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></img>
@@ -35,8 +37,8 @@ I'm a 3rd year Computer Science student at the University of Havana.
 
 <img align = "left" width="40px" style= "padding-right:10px;" src= "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png"></img>
 
-<br />
-<br />
+<br>
+<br>
 
 ---
 ### Stats
