@@ -3,6 +3,11 @@
 I'm a 3rd year Computer Science student at the University of Havana.
 
 ---
+
+<h3>Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/karen-cantero-lopez-ba0b30116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karendcl" height="30" width="40" /></a>      
+</p>
 ### Languages and Tools
 <img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></img>
 
@@ -38,6 +43,8 @@ I'm a 3rd year Computer Science student at the University of Havana.
 
 
 ![Karen's Github Stats](https://github-readme-stats.vercel.app/api?username=karendcl&show_icons=true&theme=blueberry)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karendcl&show_icons=true&locale=en&layout=compact" alt="karendcl" /></p>
             
           
             
