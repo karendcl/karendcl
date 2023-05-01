@@ -52,7 +52,7 @@ I'm a 3rd year Computer Science student at the University of Havana.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karendcl&show_icons=true&locale=en&layout=compact" alt="karendcl" /></p>
             
           
-            
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karendcl&theme=gruvbox           
         
 
 
