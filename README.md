@@ -27,17 +27,17 @@ I'm a 3rd year Computer Science student at the University of Havana.
 
 <img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
 
-<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"></img>
 
-<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></img>
+
+
 
 <img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></img> 
 
-<img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></img> 
+
 
 <img align = "left" width="40px" style= "padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></img> 
 
-<img align = "left" width="40px" style= "padding-right:10px;" src= "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png"></img>
+
 
 <br/>
 
