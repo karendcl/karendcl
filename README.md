@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 3rd year Computer Science student at the University of Havana.
+I'm a Computer Science student at the University of Havana.
 
 ---
 
